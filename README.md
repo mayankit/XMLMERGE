@@ -17,3 +17,4 @@ Information regarding running this project:
     
     for linux:
     java -jar target/XMLMERGE-1.0-SNAPSHOT-jar-with-dependencies.jar
+    
